@@ -1,5 +1,5 @@
 # learningR
 
-The aim of this repo is to learn advanced R programming.
+The aim of this repository is to learn advanced R programming.
 
-content available in this repo is for learning purpose 
+This repository contains the scripts, codes and data for practice 
