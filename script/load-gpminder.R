@@ -1,0 +1,1 @@
+gapminder1 <- read.csv(file = "data/gapminder_data.csv", stringsAsFactors = TRUE)
